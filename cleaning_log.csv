@@ -1,0 +1,272 @@
+id,action,reason
+tr-00034,drop,Corrupt empty or placeholder user ticket
+tr-00060,drop,Truncated assistant response / unparseable JSON
+tr-00095,drop,Truncated assistant response / unparseable JSON
+tr-00125,drop,Truncated assistant response / unparseable JSON
+tr-00156,drop,Duplicate ticket text (identical to tr-00030)
+tr-00164,drop,Corrupt empty or placeholder user ticket
+tr-00172,drop,Truncated assistant response / unparseable JSON
+tr-00208,drop,Duplicate ticket text (identical to tr-00150)
+tr-00211,drop,Duplicate ticket text (identical to tr-00137)
+tr-00226,drop,Duplicate ticket text (identical to tr-00070)
+tr-00267,drop,Truncated assistant response / unparseable JSON
+tr-00297,drop,Duplicate ticket text (identical to tr-00142)
+tr-00318,drop,Corrupt empty or placeholder user ticket
+tr-00349,drop,Duplicate ticket text (identical to tr-00217)
+tr-00357,drop,Truncated assistant response / unparseable JSON
+tr-00364,drop,Duplicate ticket text (identical to tr-00173)
+tr-00373,drop,Duplicate ticket text (identical to tr-00345)
+tr-00436,drop,Duplicate ticket text (identical to tr-00175)
+tr-00454,drop,Duplicate ticket text (identical to tr-00444)
+tr-00476,drop,Duplicate ticket text (identical to tr-00191)
+tr-00478,drop,Truncated assistant response / unparseable JSON
+tr-00497,drop,Truncated assistant response / unparseable JSON
+tr-00502,drop,Duplicate ticket text (identical to tr-00323)
+tr-00532,drop,Duplicate ticket text (identical to tr-00435)
+tr-00534,drop,Duplicate ticket text (identical to tr-00251)
+tr-00546,drop,Duplicate ticket text (identical to tr-00490)
+tr-00555,drop,Corrupt empty or placeholder user ticket
+tr-00558,drop,Truncated assistant response / unparseable JSON
+tr-00573,drop,Duplicate ticket text (identical to tr-00203)
+tr-00605,drop,Truncated assistant response / unparseable JSON
+tr-00665,drop,Duplicate ticket text (identical to tr-00322)
+tr-00674,drop,Truncated assistant response / unparseable JSON
+tr-00701,drop,Duplicate ticket text (identical to tr-00384)
+tr-00716,drop,Duplicate ticket text (identical to tr-00149)
+tr-00735,drop,Truncated assistant response / unparseable JSON
+tr-00761,drop,Duplicate ticket text (identical to tr-00127)
+tr-00765,drop,Truncated assistant response / unparseable JSON
+tr-00773,drop,Duplicate ticket text (identical to tr-00186)
+tr-00783,drop,Duplicate ticket text (identical to tr-00441)
+tr-00790,drop,Corrupt empty or placeholder user ticket
+tr-00794,drop,Corrupt empty or placeholder user ticket
+tr-00800,drop,Duplicate ticket text (identical to tr-00530)
+tr-00809,drop,Truncated assistant response / unparseable JSON
+tr-00811,drop,Duplicate ticket text (identical to tr-00052)
+tr-00824,drop,Truncated assistant response / unparseable JSON
+tr-00843,drop,Duplicate ticket text (identical to tr-00479)
+tr-00846,drop,Truncated assistant response / unparseable JSON
+tr-00880,drop,Duplicate ticket text (identical to tr-00451)
+tr-00913,drop,Duplicate ticket text (identical to tr-00181)
+tr-00936,drop,Duplicate ticket text (identical to tr-00766)
+tr-00958,drop,Truncated assistant response / unparseable JSON
+tr-00960,drop,Truncated assistant response / unparseable JSON
+tr-00968,drop,Duplicate ticket text (identical to tr-00239)
+tr-00975,drop,Truncated assistant response / unparseable JSON
+tr-00977,drop,Duplicate ticket text (identical to tr-00272)
+tr-00978,drop,Truncated assistant response / unparseable JSON
+tr-00979,drop,Truncated assistant response / unparseable JSON
+tr-00980,drop,Truncated assistant response / unparseable JSON
+tr-01000,drop,Duplicate ticket text (identical to tr-00238)
+tr-01011,drop,Duplicate ticket text (identical to tr-00221)
+tr-01030,drop,Duplicate ticket text (identical to tr-00342)
+tr-01032,drop,Corrupt empty or placeholder user ticket
+tr-01044,drop,Duplicate ticket text (identical to tr-01016)
+tr-01067,drop,Duplicate ticket text (identical to tr-00445)
+tr-01070,drop,Truncated assistant response / unparseable JSON
+tr-01085,drop,Duplicate ticket text (identical to tr-00883)
+tr-01087,drop,Truncated assistant response / unparseable JSON
+tr-01093,drop,Duplicate ticket text (identical to tr-00408)
+tr-01104,drop,Duplicate ticket text (identical to tr-00954)
+tr-01108,drop,Duplicate ticket text (identical to tr-00632)
+tr-01134,drop,Duplicate ticket text (identical to tr-00446)
+tr-01135,drop,Duplicate ticket text (identical to tr-00686)
+tr-01139,drop,Duplicate ticket text (identical to tr-00354)
+tr-01141,drop,Duplicate ticket text (identical to tr-00356)
+tr-01166,drop,Corrupt empty or placeholder user ticket
+tr-01176,drop,Duplicate ticket text (identical to tr-00148)
+tr-01183,drop,Duplicate ticket text (identical to tr-00617)
+tr-01199,drop,Truncated assistant response / unparseable JSON
+tr-01204,drop,Duplicate ticket text (identical to tr-00767)
+tr-01239,drop,Duplicate ticket text (identical to tr-00842)
+tr-01246,drop,Duplicate ticket text (identical to tr-00851)
+tr-01248,drop,Duplicate ticket text (identical to tr-00856)
+tr-01250,drop,Duplicate ticket text (identical to tr-01058)
+tr-01260,drop,Duplicate ticket text (identical to tr-01054)
+tr-01275,drop,Duplicate ticket text (identical to tr-00947)
+tr-01304,drop,Corrupt empty or placeholder user ticket
+tr-01314,drop,Corrupt empty or placeholder user ticket
+tr-01338,drop,Duplicate ticket text (identical to tr-00591)
+tr-01381,drop,Duplicate ticket text (identical to tr-00886)
+tr-01393,drop,Duplicate ticket text (identical to tr-00039)
+tr-01398,drop,Duplicate ticket text (identical to tr-00625)
+tr-01409,drop,Duplicate ticket text (identical to tr-01208)
+tr-01419,drop,Duplicate ticket text (identical to tr-00303)
+tr-01427,drop,Duplicate ticket text (identical to tr-01268)
+tr-01433,drop,Duplicate ticket text (identical to tr-00896)
+tr-01443,drop,Duplicate ticket text (identical to tr-01357)
+tr-00013,fix,Corrected priority tier from 'P1' to 'P3' per SCHEMA.md rules
+tr-00018,fix,Corrected priority tier from 'P1' to 'P3' per SCHEMA.md rules
+tr-00020,fix,Renamed 'prio' key to 'priority'; Normalized txn_date '02/09/2026' to '2026-09-02'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-00023,fix,Corrected priority tier from 'P1' to 'P3' per SCHEMA.md rules
+tr-00045,fix,Corrected priority tier from 'P3' to 'P1' per SCHEMA.md rules
+tr-00049,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-00058,fix,Renamed 'prio' key to 'priority'; Normalized txn_date '26/08/2026' to '2026-08-26'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-00059,fix,Corrected priority tier from 'P1' to 'P3' per SCHEMA.md rules
+tr-00071,fix,Normalized txn_id 'NP-9718716109' to 'NP9718716109'
+tr-00072,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-00073,fix,Corrected raw rupee amount_paise from 168787 to 16878725
+tr-00077,fix,Renamed 'prio' key to 'priority'; Normalized txn_date '29/07/2026' to '2026-07-29'; Corrected priority tier from 'medium' to 'P2' per SCHEMA.md rules
+tr-00114,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-00120,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-00123,fix,Renamed 'prio' key to 'priority'; Normalized txn_date '21/07/2026' to '2026-07-21'; Corrected priority tier from 'high' to 'P1' per SCHEMA.md rules
+tr-00129,fix,Corrected priority tier from 'P3' to 'P2' per SCHEMA.md rules
+tr-00144,fix,Corrected raw rupee amount_paise from 167 to 16700
+tr-00146,fix,Corrected priority tier from 'P1' to 'P3' per SCHEMA.md rules
+tr-00147,fix,Normalized txn_id 'np9891267518' to 'NP9891267518'
+tr-00151,fix,Normalized txn_id 'NP-2339259875' to 'NP2339259875'
+tr-00153,fix,Renamed 'prio' key to 'priority'; Normalized txn_date '04/09/2026' to '2026-09-04'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-00154,fix,Corrected priority tier from 'P3' to 'P2' per SCHEMA.md rules
+tr-00160,fix,Renamed 'prio' key to 'priority'; Normalized txn_date '08/08/2026' to '2026-08-08'; Corrected priority tier from 'high' to 'P1' per SCHEMA.md rules
+tr-00167,fix,Corrected raw rupee amount_paise from 267 to 26700
+tr-00178,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-00184,fix,Corrected priority tier from 'P3' to 'P1' per SCHEMA.md rules
+tr-00187,fix,Corrected raw rupee amount_paise from 220000 to 22000000
+tr-00192,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'medium' to 'P2' per SCHEMA.md rules
+tr-00199,fix,Corrected raw rupee amount_paise from 674 to 67400
+tr-00212,fix,Corrected priority tier from 'P3' to 'P1' per SCHEMA.md rules
+tr-00219,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-00220,fix,Corrected priority tier from 'P3' to 'P2' per SCHEMA.md rules
+tr-00222,fix,Corrected raw rupee amount_paise from 594 to 59450
+tr-00223,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-00225,fix,Corrected priority tier from 'P1' to 'P3' per SCHEMA.md rules
+tr-00249,fix,Renamed 'prio' key to 'priority'; Normalized txn_date '23/08/2026' to '2026-08-23'; Corrected priority tier from 'medium' to 'P2' per SCHEMA.md rules
+tr-00258,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-00263,fix,Renamed 'prio' key to 'priority'; Normalized txn_date '11/07/2026' to '2026-07-11'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-00264,fix,Corrected raw rupee amount_paise from 702 to 70200
+tr-00294,fix,Corrected priority tier from 'P3' to 'P2' per SCHEMA.md rules
+tr-00306,fix,Corrected priority tier from 'P1' to 'P3' per SCHEMA.md rules
+tr-00309,fix,Corrected priority tier from 'P1' to 'P3' per SCHEMA.md rules
+tr-00312,fix,Corrected priority tier from 'P1' to 'P3' per SCHEMA.md rules
+tr-00320,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-00328,fix,Corrected raw rupee amount_paise from 667 to 66750
+tr-00346,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'medium' to 'P2' per SCHEMA.md rules
+tr-00347,fix,Renamed 'prio' key to 'priority'; Normalized txn_date '07/08/2026' to '2026-08-07'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-00355,fix,Corrected priority tier from 'P3' to 'P2' per SCHEMA.md rules
+tr-00365,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-00370,fix,Renamed 'prio' key to 'priority'; Normalized txn_date '10/09/2026' to '2026-09-10'; Corrected priority tier from 'high' to 'P1' per SCHEMA.md rules
+tr-00380,fix,Corrected priority tier from 'P1' to 'P3' per SCHEMA.md rules
+tr-00382,fix,Corrected raw rupee amount_paise from 46094 to 4609400
+tr-00385,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-00391,fix,Normalized txn_id 'NP 9255627510' to 'NP9255627510'
+tr-00407,fix,Corrected raw rupee amount_paise from 359 to 35900
+tr-00413,fix,Corrected priority tier from 'P1' to 'P3' per SCHEMA.md rules
+tr-00420,fix,Normalized txn_id 'np 81633 47892' to 'NP8163347892'
+tr-00424,fix,Corrected priority tier from 'P3' to 'P1' per SCHEMA.md rules
+tr-00427,fix,Corrected priority tier from 'P3' to 'P1' per SCHEMA.md rules
+tr-00452,fix,Corrected priority tier from 'P1' to 'P3' per SCHEMA.md rules
+tr-00457,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-00460,fix,Normalized txn_id 'NP 6949410784' to 'NP6949410784'
+tr-00461,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'medium' to 'P2' per SCHEMA.md rules
+tr-00470,fix,Normalized txn_id 'np 11245 46709' to 'NP1124546709'
+tr-00472,fix,Corrected raw rupee amount_paise from 5815 to 581500
+tr-00475,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'medium' to 'P2' per SCHEMA.md rules
+tr-00485,fix,Corrected priority tier from 'P1' to 'P3' per SCHEMA.md rules
+tr-00503,fix,Corrected priority tier from 'P1' to 'P3' per SCHEMA.md rules
+tr-00505,fix,Corrected priority tier from 'P1' to 'P3' per SCHEMA.md rules
+tr-00508,fix,Corrected priority tier from 'P1' to 'P3' per SCHEMA.md rules
+tr-00516,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'medium' to 'P2' per SCHEMA.md rules
+tr-00523,fix,Corrected priority tier from 'P1' to 'P3' per SCHEMA.md rules
+tr-00533,fix,Corrected priority tier from 'P1' to 'P3' per SCHEMA.md rules
+tr-00556,fix,Renamed 'prio' key to 'priority'; Normalized txn_date '13/07/2026' to '2026-07-13'; Corrected priority tier from 'high' to 'P1' per SCHEMA.md rules
+tr-00560,fix,Corrected raw rupee amount_paise from 1100 to 110000
+tr-00567,fix,Corrected priority tier from 'P3' to 'P2' per SCHEMA.md rules
+tr-00570,fix,Normalized txn_id 'np 87267 97611' to 'NP8726797611'
+tr-00577,fix,Renamed 'prio' key to 'priority'; Normalized txn_date '06/08/2026' to '2026-08-06'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-00589,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-00595,fix,Normalized txn_id 'np3247474643' to 'NP3247474643'
+tr-00602,fix,Renamed 'prio' key to 'priority'; Normalized txn_date '29/06/2026' to '2026-06-29'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-00606,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'medium' to 'P2' per SCHEMA.md rules
+tr-00610,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-00622,fix,Corrected raw rupee amount_paise from 3702 to 370200
+tr-00628,fix,Renamed 'prio' key to 'priority'; Normalized txn_date '13/06/2026' to '2026-06-13'; Corrected priority tier from 'high' to 'P1' per SCHEMA.md rules
+tr-00638,fix,Corrected priority tier from 'P3' to 'P1' per SCHEMA.md rules
+tr-00648,fix,Corrected priority tier from 'P3' to 'P2' per SCHEMA.md rules
+tr-00649,fix,Normalized txn_id 'NP-8919677483' to 'NP8919677483'
+tr-00653,fix,Corrected raw rupee amount_paise from 1179 to 117900
+tr-00656,fix,Renamed 'prio' key to 'priority'; Normalized txn_date '20/06/2026' to '2026-06-20'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-00670,fix,Renamed 'prio' key to 'priority'; Normalized txn_date '20/08/2026' to '2026-08-20'; Corrected priority tier from 'medium' to 'P2' per SCHEMA.md rules
+tr-00677,fix,Renamed 'prio' key to 'priority'; Normalized txn_date '14/08/2026' to '2026-08-14'; Corrected priority tier from 'high' to 'P1' per SCHEMA.md rules
+tr-00685,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-00688,fix,Corrected raw rupee amount_paise from 209 to 20900
+tr-00689,fix,Corrected priority tier from 'P1' to 'P3' per SCHEMA.md rules
+tr-00691,fix,Corrected raw rupee amount_paise from 678 to 67800
+tr-00704,fix,Renamed 'prio' key to 'priority'; Normalized txn_date '03/06/2026' to '2026-06-03'; Corrected priority tier from 'high' to 'P1' per SCHEMA.md rules
+tr-00706,fix,Corrected priority tier from 'P3' to 'P2' per SCHEMA.md rules
+tr-00707,fix,Corrected priority tier from 'P3' to 'P2' per SCHEMA.md rules
+tr-00717,fix,Corrected priority tier from 'P1' to 'P3' per SCHEMA.md rules
+tr-00727,fix,Corrected raw rupee amount_paise from 17914 to 1791499
+tr-00744,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'medium' to 'P2' per SCHEMA.md rules
+tr-00745,fix,Corrected priority tier from 'P1' to 'P3' per SCHEMA.md rules
+tr-00746,fix,Corrected priority tier from 'P3' to 'P2' per SCHEMA.md rules
+tr-00757,fix,Corrected priority tier from 'P1' to 'P3' per SCHEMA.md rules
+tr-00771,fix,Normalized txn_id 'np9038808761' to 'NP9038808761'
+tr-00778,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-00782,fix,Corrected priority tier from 'P1' to 'P3' per SCHEMA.md rules
+tr-00791,fix,Renamed 'prio' key to 'priority'; Normalized txn_date '31/08/2026' to '2026-08-31'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-00795,fix,Corrected raw rupee amount_paise from 34300 to 3430000
+tr-00802,fix,Corrected priority tier from 'P1' to 'P3' per SCHEMA.md rules
+tr-00820,fix,Renamed 'prio' key to 'priority'; Normalized txn_date '31/05/2026' to '2026-05-31'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-00838,fix,Normalized txn_id 'NP 6186175115' to 'NP6186175115'
+tr-00839,fix,Renamed 'prio' key to 'priority'; Normalized txn_date '17/09/2026' to '2026-09-17'; Corrected priority tier from 'medium' to 'P2' per SCHEMA.md rules
+tr-00845,fix,Corrected raw rupee amount_paise from 2999 to 299900
+tr-00852,fix,Corrected priority tier from 'P3' to 'P1' per SCHEMA.md rules
+tr-00879,fix,Corrected priority tier from 'P1' to 'P3' per SCHEMA.md rules
+tr-00888,fix,Normalized txn_id 'np7786684387' to 'NP7786684387'
+tr-00890,fix,Corrected priority tier from 'P3' to 'P1' per SCHEMA.md rules
+tr-00899,fix,Normalized txn_id 'NP-1325500121' to 'NP1325500121'
+tr-00908,fix,Normalized txn_id 'np 45856 96868' to 'NP4585696868'
+tr-00920,fix,Corrected raw rupee amount_paise from 853 to 85300
+tr-00922,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-00932,fix,Corrected priority tier from 'P3' to 'P2' per SCHEMA.md rules
+tr-00933,fix,Corrected priority tier from 'P1' to 'P3' per SCHEMA.md rules
+tr-00967,fix,Corrected priority tier from 'P1' to 'P3' per SCHEMA.md rules
+tr-00985,fix,Renamed 'prio' key to 'priority'; Normalized txn_date '02/09/2026' to '2026-09-02'; Corrected priority tier from 'high' to 'P1' per SCHEMA.md rules
+tr-00986,fix,Corrected raw rupee amount_paise from 1975 to 197500
+tr-00987,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-01006,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-01012,fix,Normalized txn_id 'np 78549 05014' to 'NP7854905014'
+tr-01017,fix,Corrected priority tier from 'P3' to 'P1' per SCHEMA.md rules
+tr-01019,fix,Corrected priority tier from 'P3' to 'P1' per SCHEMA.md rules
+tr-01023,fix,Corrected priority tier from 'P3' to 'P1' per SCHEMA.md rules
+tr-01028,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-01046,fix,Renamed 'prio' key to 'priority'; Normalized txn_date '25/06/2026' to '2026-06-25'; Corrected priority tier from 'medium' to 'P2' per SCHEMA.md rules
+tr-01048,fix,Corrected priority tier from 'P1' to 'P3' per SCHEMA.md rules
+tr-01083,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'medium' to 'P2' per SCHEMA.md rules
+tr-01086,fix,Corrected priority tier from 'P3' to 'P1' per SCHEMA.md rules
+tr-01089,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-01095,fix,Corrected raw rupee amount_paise from 592 to 59200
+tr-01109,fix,Corrected priority tier from 'P3' to 'P2' per SCHEMA.md rules
+tr-01115,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'medium' to 'P2' per SCHEMA.md rules
+tr-01131,fix,Corrected priority tier from 'P3' to 'P2' per SCHEMA.md rules
+tr-01133,fix,Renamed 'prio' key to 'priority'; Normalized txn_date '25/07/2026' to '2026-07-25'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-01136,fix,Normalized txn_id 'NP 5804974985' to 'NP5804974985'
+tr-01143,fix,Renamed 'prio' key to 'priority'; Normalized txn_date '12/09/2026' to '2026-09-12'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-01146,fix,Corrected priority tier from 'P1' to 'P3' per SCHEMA.md rules
+tr-01151,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'high' to 'P1' per SCHEMA.md rules
+tr-01158,fix,Renamed 'prio' key to 'priority'; Normalized txn_date '30/06/2026' to '2026-06-30'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-01178,fix,Renamed 'prio' key to 'priority'; Normalized txn_date '09/08/2026' to '2026-08-09'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-01188,fix,Normalized txn_id 'np0530288495' to 'NP0530288495'
+tr-01202,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-01222,fix,Corrected priority tier from 'P1' to 'P3' per SCHEMA.md rules
+tr-01238,fix,Normalized txn_id 'NP-7739480420' to 'NP7739480420'
+tr-01274,fix,Renamed 'prio' key to 'priority'; Normalized txn_date '23/07/2026' to '2026-07-23'; Corrected priority tier from 'high' to 'P1' per SCHEMA.md rules
+tr-01286,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'medium' to 'P2' per SCHEMA.md rules
+tr-01301,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-01305,fix,Corrected priority tier from 'P3' to 'P2' per SCHEMA.md rules
+tr-01311,fix,Corrected raw rupee amount_paise from 497 to 49799
+tr-01319,fix,Corrected priority tier from 'P3' to 'P1' per SCHEMA.md rules
+tr-01326,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-01331,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-01343,fix,Renamed 'prio' key to 'priority'; Normalized txn_date '05/07/2026' to '2026-07-05'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-01355,fix,Corrected raw rupee amount_paise from 467 to 46700
+tr-01359,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-01363,fix,Normalized txn_id 'np 25586 43472' to 'NP2558643472'
+tr-01366,fix,Renamed 'prio' key to 'priority'; Normalized txn_date '10/09/2026' to '2026-09-10'; Corrected priority tier from 'high' to 'P1' per SCHEMA.md rules
+tr-01370,fix,Corrected priority tier from 'P3' to 'P1' per SCHEMA.md rules
+tr-01375,fix,Corrected raw rupee amount_paise from 31855 to 3185500
+tr-01386,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-01403,fix,Corrected priority tier from 'P3' to 'P1' per SCHEMA.md rules
+tr-01407,fix,Corrected priority tier from 'P1' to 'P3' per SCHEMA.md rules
+tr-01413,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
+tr-01441,fix,Renamed 'prio' key to 'priority'; Corrected priority tier from 'low' to 'P3' per SCHEMA.md rules
